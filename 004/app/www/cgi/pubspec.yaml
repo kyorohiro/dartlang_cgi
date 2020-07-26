@@ -1,0 +1,6 @@
+name: sql_dart
+version: 0.1.1
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  mysql1: 0.17.1
