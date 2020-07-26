@@ -1,0 +1,1 @@
+int getQueryParam(char *key, char *output, int outputLen);
